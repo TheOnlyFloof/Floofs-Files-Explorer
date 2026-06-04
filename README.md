@@ -9,4 +9,3 @@ Do not expect something crazy, **FFE** is a simple command line Files Explorer, 
 
 
 The Command based version of FFE was built completly by me, except for the OneDrive desktop path fix.
-The GUI version of FFE was built using Github Copilot, but is based on code i wrote myself.
