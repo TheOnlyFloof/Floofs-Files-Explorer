@@ -6,3 +6,7 @@ The objective of **FFE** is to provide a simple experience to manage folders, fi
 It is not recommended to use it on system files, as it is not perfect and could break something.
 
 Do not expect something crazy, **FFE** is a simple command line Files Explorer, and it was originally made for my own use.
+
+
+The Command based version of FFE was built completly by me, except for the OneDrive desktop path fix.
+The GUI version of FFE was built using Github Copilot, but is based on code i wrote myself.
